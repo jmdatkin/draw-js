@@ -1,8 +1,11 @@
 {
-  "name": "l",
+  "name": "draw.js",
+  "author": "Julian Atkin",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "main": "./dist/draw-js.js",
+  "types": "./dist/draw-js.d.ts",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
